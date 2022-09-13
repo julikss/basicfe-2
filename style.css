@@ -1,0 +1,77 @@
+.phone {
+  margin: 20px;
+  width: 120px;
+  height: 200px;
+  border-radius: 12%;
+  border: 1px solid black;
+  background-color: #d3e3bb;
+}
+
+.screen {
+  top: 10px;
+  left: 10px;
+  position: relative;
+  width: 100px;
+  height: 90px;
+  border-radius: 12%;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.time-info {
+  top: 0px;
+  left: 13px;
+  position: relative;
+  font-size: 29px;
+  font-weight: 500;
+  font-family: "Tahoma";
+}
+
+.button {
+  height: 15px;
+  width: 18px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: #3f3151;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.button-pos:nth-child(-n+4) {
+  top: 20px;
+  left: 20px;
+}
+
+.button-pos:nth-child(5) {
+  bottom: 61px;
+  left: 50px;
+}
+
+.button-pos:nth-child(6) {
+  bottom: 61px;
+  left: 50px;
+}
+
+.button-pos:nth-child(7) {
+  bottom: 61px;
+  left: 50px;
+}
+
+.button-pos:nth-child(8) {
+  bottom: 142px;
+  left: 82px;
+}
+
+.button-pos:nth-child(9) {
+  bottom: 142px;
+  left: 82px;
+}
+
+.button-pos:nth-child(10) {
+  bottom: 142px;
+  left: 82px;
+}
+
+
+
