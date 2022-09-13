@@ -1,1 +1,1 @@
-# basicfe-2
+[Laboratory work #2](https://julikss.github.io/basicfe-2)
